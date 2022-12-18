@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\popoom\desktop\projet codeblocks\age\main.cpp
+	<iostream>
+
+1671210598 source:c:\users\popoom\desktop\projet codeblocks\age\main.c
+	<stdio.h>
+	<stdlib.h>
+
